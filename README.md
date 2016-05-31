@@ -1,2 +1,2 @@
 # Python-Programs
-Practice basic programs in python
+Practice basic programs in python.
